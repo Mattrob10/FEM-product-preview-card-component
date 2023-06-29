@@ -1,4 +1,10 @@
 # Frontend Mentor - Product preview card component
+<br>
+Visit my build 👇 <br>
+https://fem-product-preview-card-component-1.netlify.app/ </br>
+<br>
+Visit the Challenge 👇 <br>
+https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
 
 # Desktop 
 ![Screenshot 2023-06-29 at 9 06 03 AM](https://github.com/Mattrob10/FEM-product-preview-card-component/assets/110871707/c7640305-c79a-462a-bb6a-e003f05f6a04)
